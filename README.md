@@ -22,6 +22,7 @@ _Note_: You must be on a Mac for this.
 
 ## Running on Android Simulator
 - Make sure you have an emulator configured and running.
+- Make sure JAVA_HOME and ANDROID_HOME environment variables are set to the Android Tools locations
 - From the `RNApp` directory run `$ make android`
   - Alternatively, run `$ react-native run-android`
 
