@@ -6,7 +6,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "bcrypt": "^0.8.7",
+    "bcrypt": "^5.0.0",
     "meteor-node-stubs": "~0.2.0"
   },
   "devDependencies": {
